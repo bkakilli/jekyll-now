@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Code
+permalink: /code/
 ---
 
-Some information about you!
+Code section goes hhere.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+codes codes codes
 
 ### Contact me
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
-Some information about you!
+This will contain the resume section.
 
 ### More Information
 
