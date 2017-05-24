@@ -13,9 +13,7 @@ permalink: /research/
 
 Fully autonomous navigation of unmanned vehicles, without relying on pre-installed tags or markers, still remains a challenge especially for GPS-denied areas and complex indoor environments. Robust altitude control and safe landing zone detection are two important tasks for indoor unmanned aerial vehicle (UAV) applications. In this paper, a novel approach is proposed for indoor UAVs to control their altitudes, and autonomously detect safe landing zones without relying on any markers, special setups, or assuming that the environment is known. The proposed method employs both depth data and RGB images to detect and also track the safe landing zones.
 
-<img alt="Distance vectors to segmented planes" src="/images/resimgs/vectors.png" height="100" title="Distance vectors to segmented planes: Vector to the ground is the altitude vector">
-<img alt="Landing zone detection on cluttered surefaces" src="/images/resimgs/cluttered3.png" height="100" title="Landing zone detection on cluttered surefaces">
-<img alt="Landing zone detection on multiple levels" src="/images/resimgs/4.png" height="100" title="Landing zone detection on multiple levels">
+<img alt="Distance vectors to segmented planes" src="/images/resimgs/vectors.png" height="150" title="Distance vectors to segmented planes: Vector to the ground is the altitude vector"> <img alt="Landing zone detection on cluttered surefaces" src="/images/resimgs/cluttered3.png" height="150" title="Landing zone detection on cluttered surefaces"> <img alt="Landing zone detection on multiple levels" src="/images/resimgs/4.png" height="150" title="Landing zone detection on multiple levels">
 
 ```
 @inproceedings{kakillioglu2016autonomous,
@@ -31,9 +29,7 @@ Fully autonomous navigation of unmanned vehicles, without relying on pre-install
 ##### Doorway detection for autonomous indoor navigation of unmanned vehicles (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7533078) [code]
 Fully autonomous navigation of unmanned vehicles, without relying on pre-installed tags or markers, still remains a challenge for GPS-denied areas and complex indoor environments. Doors are important for navigation as the entry/exit points. A novel approach is proposed to autonomously detect™ doorways by using the Project Tango platform. We first detect the candidate door openings from the 3D point cloud, and then use a pre-trained detector on corresponding RGB image regions to verify if these openings are indeed doors. We employ Aggregate Channel Features for detection, which are computationally efficient for real-time applications. Since detection is only performed on candidate regions, the system is more robust against false positives. The approach can be generalized to recognize windows, some architectural structures and obstacles. Experiments show that the proposed method can detect open doors in a robust and efficient manner.
 
-<img alt="The observed scene" src="/images/resimgs/detected_door_visual.png" height="100" title="">
-<img alt="Detected candidate" src="/images/resimgs/fig2b.jpg" height="100" title="Detected candidate opening displayed in red">
-<img alt="Doorway detection example" src="/images/resimgs/pos2.jpg" height="100" title="Doorway detection example. Blue, red and green boxes represent the candidate region, its padded version and the detected door, respectively.">
+<img alt="The observed scene" src="/images/resimgs/detected_door_visual.png" height="150" title="The observed scene"> <img alt="Detected candidate" src="/images/resimgs/fig2b.jpg" height="150" title="Detected candidate opening displayed in red"> <img alt="Doorway detection example" src="/images/resimgs/pos2.jpg" height="150" title="Doorway detection example. Blue, red and green boxes represent the candidate region, its padded version and the detected door, respectively.">
 
 ```
 @inproceedings{kakillioglu2016doorway,
