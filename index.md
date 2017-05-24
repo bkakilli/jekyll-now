@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### Bio
-I'm currently doing my Ph.D on Electrical and Computer Engineering. I work with [Dr. Senem Velipasalar](http://ecs.syr.edu/faculty/velipasalar/index.htm) in her [Smart Vision Systems](http://www.vision.syr.edu/) group. My main research interests are 3D computer vision and deep learning. I'm also interested in machine intelligence and embedded systems.
+I'm currently doing my Ph.D on Electrical and Computer Engineering at Syracuse University. I work with [Dr. Senem Velipasalar](http://ecs.syr.edu/faculty/velipasalar/index.htm) in her [Smart Vision Systems](http://www.vision.syr.edu/) group. My main research interests are 3D computer vision and deep learning. I'm also interested in machine intelligence and embedded systems.
 I enjoy coding. I often call myself programming enthusiast electrical engineer, or "Maxwell/Fourier-aware coder". Other than nerd stuff, I do have hobies.
 
 ### Conference Papers
@@ -20,5 +20,4 @@ I enjoy coding. I often call myself programming enthusiast electrical engineer, 
 - (2010) 99.9 percentile ranking in national university entrance exam.
 
 ### Contact me
-
 [bkakilli@syr.edu](mailto:bkakilli@syr.edu)
