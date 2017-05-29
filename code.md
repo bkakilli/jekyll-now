@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Code
-permalink: /code/
+title: Projects
+permalink: /projects/
 ---
 
-Code section goes hhere.
+I am a programming enthusiast electrical engineer. I often call myself "Maxwell/Fourier-aware coder". I usually prefer Linux as development environment but can't give up the beauty of Visual Studio. I also like to mess with hardware and embedded systems. Check my Garden Automation System project, which is a really simplistic bluetooth watering and lighting automation with bluetooth control for small gardens. I have a little VHDL experience.
 
-### More Information
+### Research
 
-codes codes codes
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com) 
+### Other
