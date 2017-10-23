@@ -6,7 +6,7 @@
 name: Burak Kakillioglu
 
 # Short bio or description (displayed in the header)
-description: Ph.D Candidate. Researcher. Techie. 
+description: Ph.D Candidate. Researcher. Techie.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/bkakilli/bkakilli.github.io/master/images/picture_square.jpg
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 

@@ -4,6 +4,18 @@ title: Research
 permalink: /research/
 ---
 
+## Current Research
+##### 3D object detection via multi-modal sensor fusion from autonomous UAVs
+<img alt="ConvNet architecture for 3D object detection" src="/images/convnet_detector.png" title="ConvNet architecture for 3D object detection">
+
+<img alt="Voxelgrid of a chair object" src="/images/chair3.png" title="Voxelgrid of a chair object" height="180">
+
+***
+
+##### 3D vision based autonomous drone guidance framework
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WUousk9y-Y" frameborder="0" allowfullscreen></iframe>
+
+***
 ## Conference Papers
 
 ##### Heat Leakage Detection from Thermal Images for Autonomous Aerial Building Inspection (2017)
