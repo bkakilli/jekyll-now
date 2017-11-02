@@ -7,6 +7,8 @@ permalink: /
 I'm currently doing my Ph.D on Electrical and Computer Engineering at Syracuse University. I work with [Dr. Senem Velipasalar](http://ecs.syr.edu/faculty/velipasalar/index.htm) in her [Smart Vision Systems](http://www.vision.syr.edu/) group. My main research interests are 3D computer vision and deep learning. I'm also interested in machine intelligence and embedded systems.
 I enjoy coding. Other than nerd stuff, I do have hobies.
 
+[Download my CV](/data/Burak_Kakillioglu_CV.pdf)
+
 ### Conference Papers
 - Heat Leakage Detection from Thermal Images for Autonomous Aerial Building Inspection (2017) (Under Revision)
 - Autonomous altitude measurement and landing area detection for indoor UAV applications (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7738069) [code]
@@ -29,7 +31,7 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 - I have some experience with **VHDL**, **JavaScript**, **PHP**, **SQL**, **CSS** other than above.
 
 #### Tools and APIs
-- I use **TensorFlow**, **Keras**, **OpenCV**, **PCL**.
+- I use **TensorFlow**, **Keras**, **OpenCV**, **PCL**, **ROS**, and **pymavlink**.
 
 #### Hardware
 - I enjoy doing stuff with **Raspberry Pi**. I use it as my primary embedded prototyping suite. For computationally demanding applications I prefer Nvidia's **Jetson**. I am working with **Pixhawk** flight controller in my current project.
