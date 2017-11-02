@@ -6,16 +6,38 @@ permalink: /research/
 
 ## Current Research
 ##### 3D object detection via multi-modal sensor fusion from autonomous UAVs
+I am currently working on 3D object detection on an embedded platform, which is intended to reside on a UAV. The project has 3 parts; 1) object detection using 3D information (depth image, point cloud etc.), 2) fusion of multi-modal sensor information, and 3) building a framework that runs on a UAV real-time.
+
+<img alt="Voxelgrid of a bedroom scene" src="/images/project_imgs/bedroom_croped.png" title="Voxelgrid of a bedroom scene" height="160">
+<img alt="Voxelgrid of the bed in the bedroom scene" src="/images/project_imgs/bed_croped.png" title="Voxelgrid of the bed in the bedroom scene" height="160">
+<img alt="Voxelgrid of a chair object that we captured with Google Tango tablet" src="/images/project_imgs/chair3.png" title="Voxelgrid of a chair object that we captured with Google Tango tablet" height="160">
+
 <img alt="ConvNet architecture for 3D object detection" src="/images/convnet_detector.png" title="ConvNet architecture for 3D object detection">
 
-<img alt="Voxelgrid of a chair object" src="/images/chair3.png" title="Voxelgrid of a chair object" height="180">
+Above architecture does not represent the updated method, which works similar to SSD.
+
 
 ***
 
 ##### 3D vision based autonomous drone guidance framework
+I am building a vision based autonomous UAV guidance framework. This project consists of the indoor control of a UAV and integrating various computer vision algorithms to the guidance scheme of the UAV for higher level autonomous mission execution.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8WUousk9y-Y" frameborder="0" allowfullscreen></iframe>
 
+
 ***
+
+##### Heat Mapping Drones
+The efficiency of thermal insulation of buildings has direct impact on power consumption for heating and ventilation. Thermal leaks are critical defects on building insulation. IR
+sensitive handheld thermal cameras are commonly used to perform manual inspection of buildings to detect thermal leaks by human experts. In this project, we are building a framework that autonomously detect heat leakages from thermal images of building structures, captured either from inside or outside. We are using an actual drone captures in our experiments.
+
+<img alt="Heat mapping drone" src="/images/project_imgs/thermal/drone.jpg" title="Heat mapping drone" height="120">
+<img alt="Color image" src="/images/project_imgs/thermal/722_p.jpg" title="Color image" height="120">
+<img alt="Thermal image" src="/images/project_imgs/thermal/722_i.jpg" title="Thermal image" height="120">
+<img alt="Detected leakage region" src="/images/project_imgs/thermal/722_l.jpg" title="Detected leakage region" height="120">
+
+
+
 ## Conference Papers
 
 ##### Heat Leakage Detection from Thermal Images for Autonomous Aerial Building Inspection (2017)

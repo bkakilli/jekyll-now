@@ -44,3 +44,5 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 
 ### Contact me
 [bkakilli@syr.edu](mailto:bkakilli@syr.edu)
+
+[linkedin.com/in/bkakilli](https://www.linkedin.com/in/bkakilli)
