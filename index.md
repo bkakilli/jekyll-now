@@ -9,13 +9,17 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 
 [Download my CV](/data/Burak_Kakillioglu_CV.pdf)
 
-### Conference Papers
-- Heat Leakage Detection from Thermal Images for Autonomous Aerial Building Inspection (2017) (Under Revision)
-- Autonomous altitude measurement and landing area detection for indoor UAV applications (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7738069) [code]
-- Doorway detection for autonomous indoor navigation of unmanned vehicles (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7533078) [code]
+### Publications
+#### Journal Papers
+- T. Rakha, A. Gorodetsky, A.S. Liberty, **B. Kakillioglu**, S. Velipasalar, "Heat Mapping Drones: An Autonomous Computer Vision-based Procedure for Building Envelope Inspection using Unmanned Aerial Systems (UAS)" (2018) (Reviewed, to be appeared)
+
+#### Conference Papers
+- M.L. Scalzo, Y. Zheng, **B. Kakillioglu**, S. Velipasalar, "Obstacle Detection and Identification with Portable Uncalibrated Structured Light" (2018) (Under Review)
+- **B. Kakillioglu**, S. Velipasalar, "Autonomous altitude measurement and landing area detection for indoor UAV applications" (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7738069) [code]
+- **B. Kakillioglu**, S. Velipasalar, "Doorway detection for autonomous indoor navigation of unmanned vehicles" (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7533078) [code]
 
 #### Upcoming
-- 3D SSD: SSD detector for 3D voxel grid scenes (expected to submit to CVPR 2018)
+- **B. Kakillioglu**, Y. Lu, S. Velipasalar, "Convolutional Multi-Scale 3D Object Detector from Single Shot Captures" (In preparation, to be submitted)
 - 3D vision based autonomous guidance of indoor UAVs using smartphone
 
 ### Project highlights

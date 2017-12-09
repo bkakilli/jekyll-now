@@ -40,8 +40,8 @@ sensitive handheld thermal cameras are commonly used to perform manual inspectio
 
 ## Conference Papers
 
-##### Heat Leakage Detection from Thermal Images for Autonomous Aerial Building Inspection (2017)
-(Under Revision)
+##### Obstacle Detection and Identification with Portable Uncalibrated Structured Light (2018)
+M.L. Scalzo, Y. Zheng, **B. Kakillioglu**, S. Velipasalar (Under Review)
 
 ***
 
