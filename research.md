@@ -5,6 +5,13 @@ permalink: /research/
 ---
 
 ## Current Research
+
+##### 6-DOF Localization of UAVs in very cluttered and GPS-denied environments
+
+ToDo.
+
+***
+
 ##### 3D object detection via multi-modal sensor fusion from autonomous UAVs
 I am currently working on 3D object detection on an embedded platform, which is intended to reside on a UAV. The project has 3 parts; 1) object detection using 3D information (depth image, point cloud etc.), 2) fusion of multi-modal sensor information, and 3) building a framework that runs on a UAV real-time.
 
