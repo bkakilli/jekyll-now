@@ -16,7 +16,7 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 
 #### Conference Papers
 - **B. Kakillioglu**, A. Ahmad, S. Velipasalar, “Object Classification from 3D Volumetric Data with 3D Capsule Networks” IEEE Global Conference on Signal and Information Processing (GlobalSIP 2018). [paper] [code]
-- **B. Kakillioglu**, S. Velipasalar, T. Rakha, “Autonomous Heat Leakage Detection from Unmanned Aerial Vehicle-Mounted Thermal Cameras” (Under Revision), International Conference on Distributed Smart Cameras (ICDSC 2018) [[paper]](https://dl.acm.org/citation.cfm?id=3243696) [code]
+- **B. Kakillioglu**, S. Velipasalar, T. Rakha, “Autonomous Heat Leakage Detection from Unmanned Aerial Vehicle-Mounted Thermal Cameras”, International Conference on Distributed Smart Cameras (ICDSC 2018) [[paper]](https://dl.acm.org/citation.cfm?id=3243696) [code]
 - M. Cornacchia, Y. Zheng, **B. Kakillioglu**, S. Velipasalar, “Obstacle Detection and Identification with Portable Uncalibrated Patterned Light”, Asilomar Conference 2018. [paper] [code]
 - **B. Kakillioglu**, S. Velipasalar, "Autonomous altitude measurement and landing area detection for indoor UAV applications" (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7738069) [code]
 - **B. Kakillioglu**, S. Velipasalar, "Doorway detection for autonomous indoor navigation of unmanned vehicles" (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7533078) [code]

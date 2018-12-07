@@ -6,6 +6,7 @@ permalink: /projects/
 
 #### Index
 - [Research projects](#research-projects)
+  - 6-DOF Localization of UAVs in very cluttered and GPS-denied environments
   - 3D object detection via multi-modal sensor fusion from autonomous UAVs
   - 3D vision based autonomous drone guidance framework
   - Thermal anomaly inspection of the building envelopes using autonomous UAVs
@@ -20,6 +21,7 @@ permalink: /projects/
 Also check my GitHub [repo](https://github.com/bkakilli).
 
 ### [Research Projects](/research)
+- [6-DOF Localization of UAVs in very cluttered and GPS-denied environments](/research#6-DOF-Localization-of-UAVs-in-very-cluttered-and-GPS-denied-environments)
 - [3D object detection via multi-modal sensor fusion from autonomous UAVs](/research#3d-object-detection-via-multi-modal-sensor-fusion-from-autonomous-uavs)
 - [3D vision based autonomous drone guidance framework](/research#3d-vision-based-autonomous-drone-guidance-framework)
 - [Thermal anomaly inspection of the building envelopes using autonomous UAVs](/research#heat-mapping-drones)
