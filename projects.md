@@ -11,9 +11,12 @@ permalink: /projects/
   - 3D vision based autonomous drone guidance framework
   - Thermal anomaly inspection of the building envelopes using autonomous UAVs
 - [Course projects](#course-projects)
+  - Continual Learning with Representation Sets
+  - Study: Playing Atari With Reep Reinforcement Learning
   - C# .NET based Test Harness server and client
   - C++ Dependency Analyzer with online code publisher server and repository, user client
   - Raspberry Pi based autonomous speaker (person of interest) tracker and camera position control with step motor
+  - Classification of Body Postures and Movements using PUC-Rio Data Set
   - [Undergrad projects](#undergrad)
 - [Personal projects](#personal-projects)
   - Wirelessly Controllable Home-Garden Automation System

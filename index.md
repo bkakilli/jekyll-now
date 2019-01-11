@@ -11,6 +11,7 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 
 ### Publications
 #### Journal Papers
+- **B. Kakillioglu**, A. Janani, S. Velipasalar, E. Koch, “Real-time Onboard UAV Localization without GPS Data” (Submitted)
 - M. Cornacchia, **B. Kakillioglu**, Y. Zheng, S. Velipasalar, “Deep Learning-Based Obstacle Detection and Classification With Portable Uncalibrated Patterned Light” IEEE Sensors Journal, 18(20), 8416-8425. [[paper]](https://ieeexplore.ieee.org/abstract/document/8438986)
 - T. Rakha, A. Gorodetsky, A.S. Liberty, **B. Kakillioglu**, S. Velipasalar, "Heat Mapping Drones: An Autonomous Computer Vision-based Procedure for Building Envelope Inspection using Unmanned Aerial Systems (UAS)" Technology | Architecture + Design. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/24751448.2018.1420963)
 
