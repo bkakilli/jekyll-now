@@ -23,6 +23,7 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 - **B. Kakillioglu**, S. Velipasalar, "Doorway detection for autonomous indoor navigation of unmanned vehicles" (2016) [[paper]](http://ieeexplore.ieee.org/abstract/document/7533078) [code]
 
 ### Project highlights
+- Automatic Tree Log Measurement
 - Real time onboard 6-DoF position estimation of UAVs from 3D data
 - 3D object detection via multi-modal sensor fusion from autonomous UAVs
 - 3D vision based autonomous drone guidance framework
@@ -33,13 +34,13 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 #### Coding
 - I code fluently in **Python**, **C/C++**, and **Matlab**.
 - I involved in quite some projects written in **Java (plus Android)**, **C#**, and **Assembly** other than above.
-- I have some experience with **VHDL**, **JavaScript**, **PHP**, **SQL**, **CSS** other than above.
+- I have some experience on HDL and web development.
 
 #### Tools and APIs
-- I use **TensorFlow**, **Keras**, **OpenCV**, **PCL**, **ROS**, and **pymavlink**.
+- I use **TensorFlow**, **Numpy**, **PyTorch**, **Keras**, **OpenCV**, **PCL**, **ROS**.
 
 #### Hardware
-- I enjoy doing stuff with **Raspberry Pi**. I use it as my primary embedded prototyping suite. For computationally demanding applications I prefer Nvidia's **Jetson**. I am working with **Pixhawk** flight controller in my current project.
+- I enjoy doing stuff with **Raspberry Pi**. I also worked with other platforms like **Jetson**. I use **Pixhawk** flight controller in my project.
 - I have done projects with **Arduino** and **ATMega** chips.
 - I am familiar with Xilinx **FPGA** prodcuts and hardware development.
 
