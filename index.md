@@ -11,11 +11,11 @@ I enjoy coding. Other than nerd stuff, I do have hobies.
 
 ### Publications
 #### Journal Papers
-- **B. Kakillioglu**, A. Janani, S. Velipasalar, E. Koch, “Real-time Onboard UAV Localization without GPS Data” (Submitted)
 - M. Cornacchia, **B. Kakillioglu**, Y. Zheng, S. Velipasalar, “Deep Learning-Based Obstacle Detection and Classification With Portable Uncalibrated Patterned Light” IEEE Sensors Journal, 18(20), 8416-8425. [[paper]](https://ieeexplore.ieee.org/abstract/document/8438986)
 - T. Rakha, A. Gorodetsky, A.S. Liberty, **B. Kakillioglu**, S. Velipasalar, "Heat Mapping Drones: An Autonomous Computer Vision-based Procedure for Building Envelope Inspection using Unmanned Aerial Systems (UAS)" Technology | Architecture + Design. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/24751448.2018.1420963)
 
 #### Conference Papers
+- **B. Kakillioglu**, A. Janani, S. Velipasalar, E. Koch, “3D Sensor-Based UAV Localization for Bridge Inspection” (Accepted) Asilomar Conference 2019. [paper] [code]
 - **B. Kakillioglu**, A. Ahmad, S. Velipasalar, “Object Classification from 3D Volumetric Data with 3D Capsule Networks” IEEE Global Conference on Signal and Information Processing (GlobalSIP 2018). [paper] [code]
 - **B. Kakillioglu**, S. Velipasalar, T. Rakha, “Autonomous Heat Leakage Detection from Unmanned Aerial Vehicle-Mounted Thermal Cameras”, International Conference on Distributed Smart Cameras (ICDSC 2018) [[paper]](https://dl.acm.org/citation.cfm?id=3243696) [code]
 - M. Cornacchia, Y. Zheng, **B. Kakillioglu**, S. Velipasalar, “Obstacle Detection and Identification with Portable Uncalibrated Patterned Light”, Asilomar Conference 2018. [paper] [code]
